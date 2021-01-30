@@ -1,3 +1,0 @@
-new txt
-"pzs":  i am master  
-"pzs_1":  i am dev
